@@ -1,0 +1,3 @@
+HMini;;;9ID0001;;;huhu;;;910;;;67890;;;available
+MAJ;;;9ID90002;;;tata;;;910;;;56789;;;available
+MKeke;;;9ID90003;;;jim;;;912;;;567892;;;available

@@ -1,0 +1,2 @@
+Book1;;;1ID10001;;;King;;;100;;;79820;;;available
+Student;;;1ID10002;;;wowo;;;123;;;456789;;;available

@@ -1,0 +1,3 @@
+Mini;;;6ID60001;;;huhu;;;610;;;67890;;;available
+Yello;;;6ID60002;;;tata;;;610;;;56789;;;available
+Keke;;;6ID60003;;;jim;;;612;;;567892;;;available
