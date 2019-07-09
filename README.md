@@ -44,3 +44,8 @@ Library Management System is a software that used to manage the different operat
 | View Report | Yes | No | No |
 | Clock In or Clock Out | No | Yes | No |
 | Log Out | Yes | Yes | Yes |
+
+## Contributors
+1. Low Jie Fong &nbsp;&nbsp;WIF 160013
+2. Tan Lay Yan &nbsp;&nbsp;&nbsp;&nbsp;WIF 160058
+3. Lim Ziliang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WIF 160014
