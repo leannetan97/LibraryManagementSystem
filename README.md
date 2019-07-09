@@ -1,7 +1,4 @@
-# Library Management System
-Fundamental of Programming Assignment WIX1002
-
-## Description
+# Library Management System <br> (Fundamental of Programming Assignment WIX1002)
 Library Management System is a software that used to manage the different operations required at a library.
 
 ### Modules
